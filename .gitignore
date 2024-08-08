@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+
+
+# Build artifacts
+*.egg
+*.egg-info
+dist
+build
