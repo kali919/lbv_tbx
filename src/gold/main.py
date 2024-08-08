@@ -6,5 +6,3 @@ def sayhello():
     print("Hello World")
     spark.stop()
 
-if __name__ == "__main__":
-   sayhello()
